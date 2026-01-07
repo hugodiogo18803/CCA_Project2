@@ -32,7 +32,6 @@ int main()
     }
 
     // 4. Cálculo do GCD
-    // A GMP já implementa o Algoritmo de Euclides de forma otimizada.
     // Sintaxe: mpz_gcd(variavel_destino, operando1, operando2)
     mpz_gcd(resultado, n1, n2);
 
