@@ -4,3 +4,5 @@ ex2_gcd
 ex4_powm
 ex6_time_pow2
 ex8_primes_arg
+ex10_primes_file
+*.txt
