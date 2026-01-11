@@ -9,3 +9,5 @@ ex10_primes_file
 ex12_factorization
 ex14_rsa_gen
 ex16_rsa_secure
+ex18_rsa_storage
+*.myasc
