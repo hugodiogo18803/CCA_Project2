@@ -12,3 +12,4 @@ ex16_rsa_secure
 ex18_rsa_storage
 *.myasc
 ex22_rsa_suite
+ex24_lcg
