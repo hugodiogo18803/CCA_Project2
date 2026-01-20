@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <gmp.h>    // Biblioteca para manipulação de grandes inteiros
-#include <time.h>   // Para funções de medição de tempo
+#include <gmp.h>    
+#include <time.h>   
 #include <stdlib.h>
 
 /**
@@ -127,3 +127,4 @@ int main()
 
     return 0;
 }
+
