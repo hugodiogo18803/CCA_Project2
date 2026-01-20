@@ -1,3 +1,15 @@
 *.o
 ex1_mul
 ex2_gcd
+ex4_powm
+ex6_time_pow2
+ex8_primes_arg
+ex10_primes_file
+*.txt
+ex12_factorization
+ex14_rsa_gen
+ex16_rsa_secure
+ex18_rsa_storage
+*.myasc
+ex22_rsa_suite
+ex24_lcg
